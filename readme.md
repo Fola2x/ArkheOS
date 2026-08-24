@@ -4,7 +4,6 @@
 
 **Best performance. No strings attached.**
 
-A free, open-source Windows 11 AME playbook built for maximum performance — trimmed, tuned, and yours.
 
 [![Version](https://img.shields.io/badge/version-1.1-white?style=for-the-badge&labelColor=050505)](https://github.com/Fola2x/ArkheOS/releases)
 [![Windows](https://img.shields.io/badge/Windows-11%2025H2-white?style=for-the-badge&labelColor=050505)](#requirements)
