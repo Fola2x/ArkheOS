@@ -29,7 +29,7 @@ Grab it from [arkheos.xyz](https://arkheos.xyz)
 
 2. Removes Microsoft Apps / Xbox Apps
 
-3. Applies a tuned tweaks for lower input latency and higher, more consistent frames in game
+3. Applies pre tuned tweaks for lower input latency and higher, more consistent frames in game
 
 ## Installing
 
