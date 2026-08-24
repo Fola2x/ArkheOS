@@ -34,7 +34,7 @@ Grab it from [arkheos.xyz](https://arkheos.xyz)
 
 1. Go to [arkheos.xyz](https://arkheos.xyz) and download the latest ArkheOS ISO.
 2. Flash it to a USB drive using a tool like [Rufus](https://rufus.ie/).
-3. Boot from the USB and install. See [INSTALL.md](INSTALL.md) for step-by-step instructions.
+3. Boot from the USB and install. See [INSTALL.md](https://github.com/Fola2x/ArkheOS/blob/main/Install) for step-by-step instructions.
 4. Once Windows boots, use the **Arkhe Toolbox**  after applying playbook to download whatever apps needed.
 
 ## Requirements
