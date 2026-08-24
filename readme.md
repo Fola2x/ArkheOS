@@ -22,7 +22,7 @@ A debloated Windows 11 25H2 ISO — a clean Microsoft image combined with the Ar
 
 Grab it from [arkheos.xyz](https://arkheos.xyz)
 
-## What the installer does
+## What the ISO BOOK does
 
 1. Downloads the **Arkhe Toolbox** (`Post.exe`) to your desktop
 
