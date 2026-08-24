@@ -1,0 +1,25 @@
+# Installing ArkheOS
+
+## Prebuilt ISO (recommended)
+
+1. Download the latest ArkheOS ISO from [arkheos.xyz](https://arkheos.xyz).
+2. Open [Rufus](https://rufus.ie/), select the ISO and your USB drive, and leave
+   all the extra Rufus options **unticked** 
+3. Once the flash finishes, boot from the USB. When you get to partition
+   selection in the Windows installer, **wipe all existing partitions** on the
+   target drive first, then install onto the resulting unallocated space.
+4. After first boot, Apply Playbook
+5. Enjoy.
+
+## Applying the playbook yourself
+
+1. Install [AME Wizard](https://ameliorated.info/) and get a clean Windows 11 ISO.
+2. Load the ArkheOS playbook from this repo's [Releases](https://github.com/Fola2x/ArkheOS/releases).
+
+
+## Requirements
+
+- Windows 11, build 26200 (25H2) — other builds are not supported
+- Internet connection during install
+- A USB drive, 8GB or larger recommended
+- Easy bcd if no usb
