@@ -9,8 +9,9 @@ A free, open-source Windows 11 AME playbook built for maximum performance — tr
 [![Version](https://img.shields.io/badge/version-1.1-white?style=for-the-badge&labelColor=050505)](https://github.com/Fola2x/ArkheOS/releases)
 [![Windows](https://img.shields.io/badge/Windows-11%2025H2-white?style=for-the-badge&labelColor=050505)](#requirements)
 [![License](https://img.shields.io/badge/license-MIT-white?style=for-the-badge&labelColor=050505)](#license)
+[![Discord](https://img.shields.io/discord/0?style=for-the-badge&label=Discord&labelColor=050505&color=white)](https://discord.gg/xRB9BkNerz)
 
-[Download](https://arkheos.xyz) · [Report an issue](https://github.com/Fola2x/ArkheOS/issues)
+[Download](https://arkheos.xyz) · [Discord](https://discord.gg/xRB9BkNerz) · [Report an issue](https://github.com/Fola2x/ArkheOS/issues)
 
 </div>
 
@@ -74,7 +75,7 @@ That's it. No wall of tweaks gets forced onto your machine during setup. Every p
 **Option B — apply the playbook yourself:**
 
 1. Install [AME Wizard](https://ameliorated.info/) and get a clean Windows 11 ISO.
-2. Only load the ArkheOS playbook from this repo's [Releases](https://github.com/Fola2x/ArkheOS/releases) — never a random third-party copy.
+2. Only load the ArkheOS playbook from this repo's [Releases](https://github.com/Fola2x/ArkheOS/releases) or the pinned [Discord](https://discord.gg/xRB9BkNerz) link — never a random third-party copy.
 3. Build your ISO with the playbook applied, or run it against an existing install.
 4. Once Windows boots, use the **Arkhe Toolbox** on your desktop and the `Configuration\` playbooks to apply whatever else you want.
 
@@ -96,9 +97,8 @@ Pull requests are welcome. Read through `Configuration\` and `Executables\` befo
 
 ## Contact
 
+- Discord: [discord.gg/xRB9BkNerz](https://discord.gg/xRB9BkNerz)
 - GitHub: [github.com/Fola2x](https://github.com/Fola2x)
-
-<!-- Discord invite pending — add back once a working invite link exists -->
 
 ## License
 
