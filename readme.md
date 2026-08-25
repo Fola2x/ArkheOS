@@ -47,10 +47,13 @@ Grab it from [arkheos.xyz](https://arkheos.xyz)
 ## Contributors
 
 - [Fola2x](https://github.com/Fola2x)
+- [ArkheProject](https://github.com/ArkheProject)
 
-<!-- more contributors to be added here -->
+
+
 
 ## Contact
 
 - Discord: [discord.gg/xRB9BkNerz](https://discord.gg/xRB9BkNerz)
 - GitHub: [github.com/Fola2x](https://github.com/Fola2x)
+- Github  [ArkheProject]((https://github.com/ArkheProject))
