@@ -56,4 +56,4 @@ Grab it from [arkheos.xyz](https://arkheos.xyz)
 
 - Discord: [discord.gg/xRB9BkNerz](https://discord.gg/xRB9BkNerz)
 - GitHub: [github.com/Fola2x](https://github.com/Fola2x)
-- Github  [ArkheProject]((https://github.com/ArkheProject))
+- Github:  [ArkheProject](https://github.com/ArkheProject)
